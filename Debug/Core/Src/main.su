@@ -1,0 +1,9 @@
+../Core/Src/main.c:87:13:setMainState	16	static
+../Core/Src/main.c:95:6:mainFSM_init	16	static
+../Core/Src/main.c:126:6:mainFSM_update	32	static
+../Core/Src/main.c:196:5:main	8	static
+../Core/Src/main.c:248:6:SystemClock_Config	88	static
+../Core/Src/main.c:296:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:330:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:368:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:420:6:Error_Handler	4	static,ignoring_inline_asm

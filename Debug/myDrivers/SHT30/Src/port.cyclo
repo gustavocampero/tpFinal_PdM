@@ -1,0 +1,3 @@
+../myDrivers/SHT30/Src/port.c:23:13:sht30_write_command	1
+../myDrivers/SHT30/Src/port.c:34:13:sht30_read	1
+../myDrivers/SHT30/Src/port.c:43:6:sht30_delay	1

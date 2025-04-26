@@ -1,0 +1,5 @@
+../API/Src/API_delay.c:20:6:delayInit	1
+../API/Src/API_delay.c:39:8:delayRead	2
+../API/Src/API_delay.c:69:6:delayWrite	1
+../API/Src/API_delay.c:84:6:delayStop	1
+../API/Src/API_delay.c:99:8:delayIsRunning	1

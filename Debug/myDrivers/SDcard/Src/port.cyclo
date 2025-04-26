@@ -1,0 +1,6 @@
+../myDrivers/SDcard/Src/port.c:26:6:cs_Low	1
+../myDrivers/SDcard/Src/port.c:35:6:cs_High	1
+../myDrivers/SDcard/Src/port.c:44:6:sd_Delay	1
+../myDrivers/SDcard/Src/port.c:56:10:sd_TransmitReceive	1
+../myDrivers/SDcard/Src/port.c:67:10:sd_Transmit	1
+../myDrivers/SDcard/Src/port.c:78:10:sd_Receive	1

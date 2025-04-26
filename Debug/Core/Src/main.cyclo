@@ -1,0 +1,9 @@
+../Core/Src/main.c:87:13:setMainState	1
+../Core/Src/main.c:95:6:mainFSM_init	3
+../Core/Src/main.c:126:6:mainFSM_update	10
+../Core/Src/main.c:196:5:main	1
+../Core/Src/main.c:248:6:SystemClock_Config	3
+../Core/Src/main.c:296:13:MX_I2C1_Init	2
+../Core/Src/main.c:330:13:MX_SPI2_Init	2
+../Core/Src/main.c:368:13:MX_GPIO_Init	1
+../Core/Src/main.c:420:6:Error_Handler	1

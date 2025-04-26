@@ -1,0 +1,10 @@
+../myDrivers/SHT30/Src/sht30.c:27:13:SHT30_init	1
+../myDrivers/SHT30/Src/sht30.c:38:6:SHT30_config	1
+../myDrivers/SHT30/Src/sht30.c:47:13:SHT30_softReset	1
+../myDrivers/SHT30/Src/sht30.c:60:13:SHT30_readTemperatureAndHumidity	5
+../myDrivers/SHT30/Src/sht30.c:88:13:SHT30_startPeriodicRead	1
+../myDrivers/SHT30/Src/sht30.c:100:13:SHT30_stopPeriodicRead	1
+../myDrivers/SHT30/Src/sht30.c:113:13:SHT30_periodicRead	5
+../myDrivers/SHT30/Src/sht30.c:140:13:build_SingleShotCommand	10
+../myDrivers/SHT30/Src/sht30.c:189:17:get_PeriodicDataAcquisitionCommand	21
+../myDrivers/SHT30/Src/sht30.c:229:16:SHT30_CRC8	4

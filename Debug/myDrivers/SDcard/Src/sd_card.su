@@ -1,0 +1,11 @@
+../myDrivers/SDcard/Src/sd_card.c:32:10:SD_init	8	static
+../myDrivers/SDcard/Src/sd_card.c:62:10:SD_read	24	static
+../myDrivers/SDcard/Src/sd_card.c:110:10:SD_write	24	static
+../myDrivers/SDcard/Src/sd_card.c:152:10:SD_erase	528	static
+../myDrivers/SDcard/Src/sd_card.c:168:13:sd_dummy	8	static
+../myDrivers/SDcard/Src/sd_card.c:180:13:send_dummy_clocks	16	static
+../myDrivers/SDcard/Src/sd_card.c:194:13:waitBusy	16	static
+../myDrivers/SDcard/Src/sd_card.c:211:16:sd_send_cmd	32	static
+../myDrivers/SDcard/Src/sd_card.c:247:17:send_CMD0	16	static
+../myDrivers/SDcard/Src/sd_card.c:270:17:send_CMD8	32	static
+../myDrivers/SDcard/Src/sd_card.c:307:17:send_ACMD41	24	static
